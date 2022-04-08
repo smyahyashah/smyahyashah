@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smyahyashah
+- 👋 Hi, I’m Yahya Shah
 - 👀 I’m interested in Development and SQA
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on basic project
