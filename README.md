@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yahya Shah
 - 👀 I’m interested in Development and SQA
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning automation
 - 💞️ I’m looking to collaborate on basic project
 - 📫 How to reach me "smyahyashah@gmail.com"
 
